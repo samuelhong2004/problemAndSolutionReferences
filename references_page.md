@@ -14,4 +14,4 @@
 
 [7] Adafruit, “Circuit Playground Express,” Adafruit, n.d. [Online]. Available: https://www.adafruit.com/product/3333. [Accessed May. 25, 2026].
 
-[8] Lee, O., Hardware Engineer, personal interview with Samuel Hong, May. 24, 2026.
+[8] O. Lee, Hardware Engineer, personal interview with Samuel Hong, May. 24, 2026.
