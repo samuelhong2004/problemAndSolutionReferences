@@ -8,8 +8,10 @@
 
 [4] University of Washington Bothell, “Electronics Club,” Gather UWB, n.d. [Online]. Available: https://gather.uwb.edu/feeds?type=club&type_id=35461&tab=about. [Accessed Apr. 24, 2026].
 
-[5] CircuitSpecialists, “CSI-TC2 Handheld Digital Oscilloscope,” CircuitSpecialists, n.d. [Online]. Available: https://www.circuitspecialists.com/CSI-TC2. [Accessed Apr. 24, 2026].
+[5] CircuitSpecialists, “CSI-TC2 Handheld Digital Oscilloscope,” CircuitSpecialists, n.d. [Online]. Available: https://www.circuitspecialists.com/CSI-TC2. [Accessed May. 25, 2026].
 
-[6] REPC, “REPC,” REPC, n.d. [Online]. Available: https://repc.com/. [Accessed Apr. 24, 2026].
+[6] REPC, “REPC,” REPC, n.d. [Online]. Available: https://repc.com/. [Accessed May. 25, 2026].
 
-[7] Adafruit, “Circuit Playground Express,” Adafruit, n.d. [Online]. Available: https://www.adafruit.com/product/3333. [Accessed Apr. 24, 2026].
+[7] Adafruit, “Circuit Playground Express,” Adafruit, n.d. [Online]. Available: https://www.adafruit.com/product/3333. [Accessed May. 25, 2026].
+
+[8] Lee, O., Hardware Engineer, personal interview with Samuel Hong, May. 24, 2026.
